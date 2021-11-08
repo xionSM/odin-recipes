@@ -1,0 +1,9 @@
+img {
+    height: auto;
+    width: 500px;
+}
+
+.text {
+    font-family: Arial, sans-serif;
+    font-size: larger;
+}
